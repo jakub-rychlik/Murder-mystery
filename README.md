@@ -1,4 +1,4 @@
-This is a fun SQL project for my own purposes of learning, exploring and practicing PostgreSQL.
+This is a fun SQL project for purposes of learning, exploring and practicing PostgreSQL.
 
 ## What is the "SQL Murder Mystery"? 
 It is a problem created for SQL practice. You are given a database with different kinds of information about people in 
