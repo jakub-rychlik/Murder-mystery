@@ -19,3 +19,7 @@ this file was to learn how to connect and use SQL queries in Python. Some easier
 - `view_queris.sql`: Contains all queries for creating virtual tables, i.e. `VIEW`.
 - `select_queries.sql`: Contains all queries for selecting specific information necessary for investigation.
 
+### For this project the following languages were used:
+- **PostgreSQL 18.3**
+- **Python 3.13**
+- **Jupyter notebook 7.5.5**
