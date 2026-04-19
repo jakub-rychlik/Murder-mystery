@@ -14,11 +14,11 @@ https://mystery.knightlab.com/
 - `murder_mystery.md`: My process of exploring and working with the database, supplemented by markdown notes.
 - `murder_mystery.ipynb`: Jupyter notebook used to build markdown file `murder_mystery.md`.
 - `murder_mystery.py`: Python file in which I carry out the same investigation as in the Jupyter notebook. The purpose of
-this file was to learn how to connect and use SQL queries in Python. Some easier queries are hardcoded, the harder ones are in
-`view_queries.sql` and `select_queries.sql`.
+this file was to learn how to connect and use SQL queries in Python. Some shorter queries are hardcoded, the more
+complex ones are in `view_queries.sql` and `select_queries.sql`.
 - `view_queris.sql`: Contains all queries for creating virtual tables, i.e. `VIEW`.
 - `select_queries.sql`: Contains all queries for selecting specific information necessary for investigation.
-
+- 
 ### For this project the following languages were used:
 - **PostgreSQL 18.3**
 - **Python 3.13**
